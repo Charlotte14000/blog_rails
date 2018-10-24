@@ -4,7 +4,7 @@ Blog réalisé avec amour par
 Rebecca Bossé
 Charlotte Vaudour
 
-L'objectif est de faire une application de blog qui permet aux utilisateurs d'écrire des articles associé à des catégories.
+L'objectif est de faire une application de blog qui permet aux utilisateurs d'écrire des articles associés à des catégories.
 
 Nous avons créé les modèles suivant:
 
