@@ -1,24 +1,17 @@
-# README
+# Le plus beau blog du monde ou pas
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog réalisé avec amour par 
+Rebecca Bossé
+Charlotte Vaudour
 
-Things you may want to cover:
+L'objectif est de faire une application de blog qui permet aux utilisateurs d'écrire des articles associé à des catégories.
 
-* Ruby version
+Nous avons créé les modèles suivant:
 
-* System dependencies
+User qui a comme attributs 'first_name', 'last-nam' et 'email'.
 
-* Configuration
+Article qui a comme attributs 'title' et 'content'.
 
-* Database creation
+Category qui a comme attribut 'name'
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+l'application a été faites avec rails 
